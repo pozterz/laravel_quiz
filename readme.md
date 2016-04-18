@@ -1,6 +1,6 @@
 #Laravel quiz solution
-0 > prepare laravelcollective ref. <a href="https://laravelcollective.com/docs/5.2/html">https://laravelcollective.com/docs/5.2/html</a>
- ---- Changed file ----
+0 > prepare laravelcollective ref. <a href="https://laravelcollective.com/docs/5.2/html">https://laravelcollective.com/docs/5.2/html</a> <br/>
+ ---- Changed file ---- <br/>
 1 > create database name Animal <br/>
 2 > Setting .env at DB_DATABASE=Animal <br/>
 3 > make migration for create table rabbits (in database/migration/{____migrationfile}.php) <br/>
